@@ -1,2 +1,2 @@
 # surfshark_screenshots
-Screenshots of an app blocking issue for Surfshark developers
+Screenshots for Surfshark developers of an app blocking issue caused by Surfshark Antivirus feature 
